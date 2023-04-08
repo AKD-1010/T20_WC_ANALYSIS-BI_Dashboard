@@ -7,4 +7,4 @@ Use Case: Sponserships, Team selection, Strategy making
 .
 .
 .
-<<Complete instructions and about section in progress...>>
+<Complete instructions and about section in progress...>
